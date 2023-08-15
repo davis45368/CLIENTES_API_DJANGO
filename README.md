@@ -22,7 +22,7 @@ git clone https://github.com/davis45368/CLIENTES_API_DJANGO.git
 
 Instalar requirements 
 
-pip install –r requirementes.py  
+pip install –r requirements.txt
 
  
 
