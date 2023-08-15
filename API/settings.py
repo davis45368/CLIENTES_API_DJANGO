@@ -150,7 +150,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Acturizacion de cors
 
 cors_frontend = "https://clientes-frontend-react-davis45368.vercel.app/"
+
 CORS_ALLOWED_ORIGINS = []
+
+from django.conf import settings
+settings.CORS_ALLOWED_ORIGINS.append("https://clientes-frontend-react-davis45368.vercel.app/")
 
 # Documentación
 
