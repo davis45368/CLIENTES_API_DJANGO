@@ -2,12 +2,7 @@
 
 Api en Django_rest_framework  
 
-Se creo models.py una class CLiente en la cual se agregaron los campos 
-
-nombre_completo REQUIRED 
-numero_documento REQUIRED 
-email 
-fecha_nacimiento 
+Se creo models.py una class CLiente los campos
 
 Se serializaron en el archivo serializer.py  
 
