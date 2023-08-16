@@ -35,4 +35,9 @@ pip install –r requirements.txt
 ## tecnologías
 ***
 * [Python](https://www.python.org/): Version 3.11.1 
+<<<<<<< HEAD
 * [Django](https://www.djangoproject.com/start/): Version 4.2.4
+=======
+* [Django](https://www.djangoproject.com/start/): Version 4.2.4
+
+>>>>>>> cddb57a57633db3bd5fa50bda49957caa8370f65
