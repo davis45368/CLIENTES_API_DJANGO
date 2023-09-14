@@ -2,8 +2,12 @@ from django.db import models
 
 class Cliente(models.Model):
     list_tipo_documento = (
-        ('CC','Cedula'),
-        ('NIT', 'Nit')
+        ('CC','Cédula'),
+        ('NIT', 'Nit'),
+        ('T.I', 'Tarjeta Identidad'),
+        ('C.E', 'Cedula Extranjera'),
+        ('P', 'Pasaporte')
+
     )
     nombre_completo = models.CharField(max_length=200)
     numero_documento = models.CharField(max_length=20)
