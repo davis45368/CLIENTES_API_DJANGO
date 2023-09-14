@@ -151,7 +151,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 
-CORS_ALLOWED_ORIGINS = ["https://clientesapp-k1k0p8fxk-davis45368.vercel.app", "https://clientesapp-azuxcil42-davis45368.vercel.app", "http://localhost:5173"]
+CORS_ALLOWED_ORIGINS = ["https://clientesapp-k1k0p8fxk-davis45368.vercel.app", "https://clientesapp-azuxcil42-davis45368.vercel.app", "http://localhost:5173", "https://clientesapp-ihoaubr0j-davis45368.vercel.app"]
 
 
 # Documentación
